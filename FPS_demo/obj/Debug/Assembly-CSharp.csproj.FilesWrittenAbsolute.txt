@@ -1,0 +1,13 @@
+/Users/novosad/Documents/unity/unity_fps_demo/FPS_demo/Temp/bin/Debug/UnityEngine.dll
+/Users/novosad/Documents/unity/unity_fps_demo/FPS_demo/Temp/bin/Debug/UnityEditor.dll
+/Users/novosad/Documents/unity/unity_fps_demo/FPS_demo/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/novosad/Documents/unity/unity_fps_demo/FPS_demo/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/novosad/Documents/unity/unity_fps_demo/FPS_demo/Temp/bin/Debug/Mono.Cecil.dll
+/Users/novosad/Documents/unity/unity_fps_demo/FPS_demo/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/novosad/Documents/unity/unity_fps_demo/FPS_demo/Temp/bin/Debug/Unity.DataContract.dll
+/Users/novosad/Documents/unity/unity_fps_demo/FPS_demo/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/novosad/Documents/unity/unity_fps_demo/FPS_demo/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/novosad/Documents/unity/unity_fps_demo/FPS_demo/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/novosad/Documents/unity/unity_fps_demo/FPS_demo/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/novosad/Documents/unity/unity_fps_demo/FPS_demo/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/novosad/Documents/unity/unity_fps_demo/FPS_demo/Temp/bin/Debug/Mono.Cecil.Mdb.dll
